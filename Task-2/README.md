@@ -14,7 +14,7 @@
 ### 🧠 **Project Overview**
 Complete unsupervised machine learning pipeline for customer segmentation:
 
-1. **Dataset**: Mall Customers (200 customers × 5 features) [file:75]
+1. **Dataset**: Mall Customers (200 customers × 5 features)
 2. **Features Used**: 
    - Annual Income (k$): 15-137k
    - Spending Score (1-100): 1-99
@@ -27,7 +27,7 @@ Complete unsupervised machine learning pipeline for customer segmentation:
    - Cluster centers overlay
 6. **Results**: 4 actionable customer segments with business insights
 
-**Cluster Profiles:** [file:75]
+**Cluster Profiles:** 
 Cluster 0: Low Income (₹26k), Low Spending (21) - Conservative
 Cluster 1: High Income (₹87k), Low Spending (19) - Conservative Elite
 Cluster 2: Low Income (₹48k), High Spending (56) - Targeted Promoters
@@ -89,7 +89,7 @@ Cluster 3 (39 customers): Ideal Customers - High income, high spenders 💎
 ---
 
 **Key Learnings:**
-- Feature scaling is **mandatory** for K-Means [file:75]
+- Feature scaling is **mandatory** for K-Means 
 - Elbow method for **hyperparameter tuning**
 - PCA for **visualization** of clusters
 - Translating clusters into **business strategy**
